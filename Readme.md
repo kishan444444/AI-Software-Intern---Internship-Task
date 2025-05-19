@@ -1,4 +1,3 @@
-# AI Software Intern – Internship Task
 
 # AI-Powered Document Research Chatbot
 
